@@ -1,12 +1,13 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Current Projects
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Completed Projects
+    url: blog
+
 
 project_entries:
   - title: Project 1
@@ -31,10 +32,6 @@ project_entries:
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
@@ -54,14 +51,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Home
     url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/adrien-mcculloch
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/AdrienMcCulloch
 
   - title: feed
     url: feed.xml

@@ -101,8 +101,8 @@ html {
 ```css
 @mixin dark-appearance {
   html, body  {
-      --bg: #1f242A;
-      --bg-secondary: #323945;
+      --bg: #41436A;
+      --bg-secondary: #974063;
       --headings: #3D9970;
       --text: #adb5bd;
       --links: #91a7ff;
